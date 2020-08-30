@@ -1,0 +1,25 @@
+{
+  "name": "ngourleydb",
+  "version": "1.0.0",
+  "description": "Personal database library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngourley/ngourleydb.git"
+  },
+  "keywords": [
+    "sqlite3"
+  ],
+  "author": "Nathan Gourley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngourley/ngourleydb/issues"
+  },
+  "homepage": "https://github.com/ngourley/ngourleydb#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  }
+}
